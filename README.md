@@ -1,2 +1,2 @@
-# Statistical-Significance---Pricing-Factors
+# Statistical-Significance-Pricing-Factors
 House Price Factors Ames, Iowa
